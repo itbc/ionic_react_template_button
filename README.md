@@ -1,7 +1,7 @@
 # ionic_react_template_button
 
 ### Install
-'''npm install -g @ionic/cli'''
+`npm install -g @ionic/cli`
 
 ### ionic start myApp tabs
 
