@@ -1,15 +1,17 @@
 # ionic_react_template_button
 
-### Install
+
+### Install Ionic
 `npm install -g @ionic/cli`
 
-### ionic start myApp tabs
+### Create Ionic App
+`ionic start myApp tabs`
 
-### cd myApp 
+### Run App
+`cd myApp` 
+`ionic serve`
 
-### ionic serve
-
-### http://localhost:8100
+http://localhost:8100
 
 
 ### add UI Components
