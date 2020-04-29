@@ -14,7 +14,7 @@
 http://localhost:8100
 
 
-### add UI Components
+### Add UI Components
 https://ionicframework.com/docs/components
 
 
